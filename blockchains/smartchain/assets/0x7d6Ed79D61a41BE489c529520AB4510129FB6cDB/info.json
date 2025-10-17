@@ -1,0 +1,11 @@
+{
+  "name": "XP Test",
+  "website": "https://sandbox.wavewealth.io",
+  "description": "Core ecosystem XP token for the Wave platform",
+  "explorer": "https://testnet.bscscan.com/address/0x7d6ed79d61a41be489c529520ab4510129fb6cdb",
+  "type": "BEP20",
+  "symbol": "tXP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7d6Ed79D61a41BE489c529520AB4510129FB6cDB"
+}
